@@ -8,4 +8,4 @@ WP Taxonomy Category Synchronization can be easily extended to other taxonomy ca
 
 A brief overview of how the plugin functions:
 
-![PlantUML Diagram](https://www.apolloventuresllc.com/github/images/diagram.png)
+![PlantUML Diagram](/documentation/images/diagram.png)
