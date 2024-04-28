@@ -50,4 +50,4 @@
 
 <p>A brief overview of how the plugin functions:</p>
 
-![PlantUML Diagram](/documentation/images/diagram.png)
+![PlantUML Diagram](/drepository-images/diagram.png)
