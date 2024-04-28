@@ -44,7 +44,7 @@
 <ul>
 <li>Ideal for organizations with limited budgets needing to use a theme's setup 'as is'.</li>
 <li>Suitable when a shared taxonomy with a standard structure does not fit the data storage needs.</li>
-</ul>ul>
+</ul>
 
 <h2>Functionality</h2>
 
