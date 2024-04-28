@@ -1,9 +1,15 @@
 <?php
 /**
  * Plugin Name: WP Taxonomy Category Synchronization
+ * Plugin URI: https://github.com/apolloventures/wp-taxonomy-category-synchronization
  * Description: Designed for WP Job Manager and the Cariera theme, this plugin synchronizes taxonomy categories across 'resume_category', 'company_category', 'job_listing_category', including handling of specific metadata fields like 'cariera_background_image', 'cariera_image_icon', 'cariera_font_icon'. Ensures metadata is correctly copied during synchronization.
- * Version: 1.0
+ * Version: 1.0.0
  * Author: Apollo Ventures LLC
+ * Author URI: https://www.apolloventuresllc.com/
+ * License: GPLv2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Copyright: © 2024 Apollo Ventures LLC. All rights reserved.
+ * Text Domain: wp-taxonomy-category-synchronization
  */
 
 // Utility function to prevent self-triggering of hooks
