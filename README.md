@@ -39,7 +39,7 @@
 
 <h2>License</h2>
 
-<p>This plugin is released under the [license name] License. See the LICENSE file for more information.</p>
+<p>This plugin is released under the GPLv2 License.</p>
 
 <h2>Optimal Use Cases</h2>
 
