@@ -1,3 +1,5 @@
+![Plugin Graphic](/repository-images/plugin-graphic.jpg)
+
 <h1>WP Taxonomy Category Synchronization</h1>
 
 <h2>Description</h2>
